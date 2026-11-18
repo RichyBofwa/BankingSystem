@@ -18,12 +18,7 @@ The program stores three sample customers in arrays. Each customer has a name, a
 
 ## Getting Started
 
-The only source file is `banking_system.cpp`. Compile and run it with any C++ compiler, for example:
-
-```bash
-g++ banking_system.cpp -o banking_system
-./banking_system
-```
+The only source file is `main.cpp`. Compile and run it with any C++ compiler
 
 ## Menu
 
